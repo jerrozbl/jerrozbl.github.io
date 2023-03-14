@@ -1,0 +1,43 @@
+#log1{
+    display: inline-block;
+    width:15%;
+    float: left;
+}
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+    
+}
+#log2{
+    display: inline-block;
+    width:12%;
+    text-align: right;
+        
+}
+#barra{
+    clear: both;
+}
+.menu{
+    display: inline-block;
+    width: 10%;
+    background-color: cadetblue;
+    font-size: 16px;
+    text-align: center;
+}
+#marco{
+   width: 98%;
+   padding: 8px;
+   height: 400px;
+}
+#pie{
+    text-align: center;
+    font-size: 20px;
+    border: groove;
+}
+#bacho{
+    float: right;
+}
+#qroo{
+    float:left;
+}

@@ -1,0 +1,89 @@
+#pp{
+    background-color: cadetblue;
+    text-align: center;
+}
+#musik{
+    background-color: cadetblue;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+#imagenm{
+    border: 50%;
+    margin: 40px;
+    width: 30%;
+    margin-left: 30%;
+}
+#imagenp{
+    border: 50%;
+    margin: 40px;
+    width: 30%;
+    margin-left: 30%;
+}
+#pintura{
+    background-color: cadetblue;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+#danza{
+    background-color: cadetblue;
+    text-align: center;
+    text-decoration: underline;
+}
+#imagend{
+    border: 50%;
+    margin: 40px;
+    width: 30%;
+    margin-left: 30%;
+}
+#teatro{
+     background-color: cadetblue;
+    text-align: center;
+    text-decoration: underline;
+}
+#imagent{
+    border: 50%;
+    margin: 40px;
+    width: 30%;
+    margin-left: 30%;
+}
+#guerra{
+    background-color: cadetblue;
+    text-align: center;
+    text-decoration: underline;
+}
+#imagenguerra{
+    border: 50%;
+    margin: 40px;
+    width: 30%;
+    margin-left: 30%;
+}
+#futbol{
+     background-color: cadetblue;
+    text-align: center;
+    text-decoration: underline;
+}
+#imagenfut{
+    border: 50%;
+    margin: 40px;
+    width: 30%;
+    margin-left: 30%;
+}
+#volei{
+    background-color: cadetblue;
+    text-align: center;
+    text-decoration: underline;
+}
+#imagenvolei{
+     border: 50%;
+    margin: 40px;
+    width: 30%;
+    margin-left: 30%;
+}
+img{
+    width: 18%;
+    margin: 100px;
+    
+}
+}
